@@ -1,0 +1,39 @@
+usama-portfolio/
+│
+├── index.html
+├── about.html
+├── experience.html
+├── projects.html
+├── skills.html
+├── contact.html
+├── README.md
+│
+└── assets/
+    │
+    ├── css/
+    │   ├── style.css
+    │   ├── responsive.css
+    │   └── animations.css
+    │
+    ├── js/
+    │   ├── script.js
+    │   └── gallery.js
+    │
+    ├── images/
+    │   ├── profile/
+    │   ├── cnc/
+    │   ├── projects/
+    │   ├── solidworks/
+    │   ├── certificates/
+    │   ├── experience/
+    │   ├── leadership/
+    │   └── gallery/
+    │
+    ├── documents/
+    │   ├── Usama_Bin_Latif_CV.pdf
+    │   ├── Portfolio.pdf
+    │   └── Experience_Letter.pdf
+    │
+    ├── icons/
+    │
+    └── fonts/
